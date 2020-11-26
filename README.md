@@ -1,22 +1,14 @@
-Hello guys!<br> 
+# What's up guys, my name is Jonnas Freire.
+
+<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
+
 I'm a passionate technology student.<br>
 I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
 
-<!--
-**jonnahfreire/jonnahfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🔭 I’m currently studying on ...
--->
 - 🌱 I’m currently learning Reactjs - React-Native
 - 👯 I’m looking to collaborate on Open-source projects
 
-- 📫 How to reach me:<br>
-Instagram: @jonnahfreire.dev<br>
-Linkedin: linkedin.com/in/jonas-de-sousa-freire-895197106
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-castro-664b03189/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonnahfreire.dev/?hl=pt-br)](https://www.instagram.com/jonnahfreire.dev/?hl=pt-br) 
