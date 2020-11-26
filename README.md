@@ -1,6 +1,6 @@
-Hello guys! 
-I'm a passionate technology student.
-I am currently studying Systems Analysis and Development at IFCE - Federal Institute of Technology
+Hello guys!<br> 
+I'm a passionate technology student.<br>
+I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
 
 <!--
 **jonnahfreire/jonnahfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
