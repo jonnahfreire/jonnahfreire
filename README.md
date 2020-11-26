@@ -5,8 +5,8 @@
 I'm a passionate technology student.<br>
 I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
 
-- 🌱 I’m currently learning Reactjs - React-Native
-- 👯 I’m looking to collaborate on Open-source projects
+-  I’m currently learning **ReactJs** - **React-Native**
+-  I’m looking to collaborate on *Open-source projects*
 
 ### Find me on:
 
