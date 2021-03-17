@@ -11,4 +11,4 @@ I am currently studying Systems Analysis and Development<br> at IFCE - Federal I
 ### Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/no_user_setted/?hl=pt-br)](https://www.instagram.com/no_user_setted/?hl=pt-br) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/user022c/?hl=pt-br)](https://www.instagram.com/user022c/?hl=pt-br) 
