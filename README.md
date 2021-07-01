@@ -5,9 +5,6 @@
 I'm a passionate technology student.<br>
 I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
 
-//-  I’m currently learning **ReactJs** - **React-Native**
-//-  I’m looking to collaborate on *Open-source projects*
-
 ### Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
