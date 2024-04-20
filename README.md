@@ -1,9 +1,7 @@
-<!-- # What's up guys!!
+<!-- 
 
 <img width="30%" backgroundColor="#0D1117" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
-I'm a passionate Software Engineer.<br>
-I am currently working on technology projects with Web Development, Mobile Development including frontend and backend<br>
 ### Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
@@ -11,7 +9,11 @@ I am currently working on technology projects with Web Development, Mobile Devel
  -->
  
  <!-- <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square"> -->
-- 👋 Olá, eu sou Jonas Freire  </br>
+# What's up guys!!👋 </br>
+
+I'm a passionate Software Engineer.<br>
+I am currently working on technology projects with Web Development, Mobile Development including frontend and backend<br>
+
 
 <div align="center">
   <a href="https://github.com/jonnahfreire">
