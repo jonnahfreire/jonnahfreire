@@ -2,9 +2,8 @@
 
 <img width="30%" backgroundColor="#0D1117" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
-I'm a passionate technology student.<br>
-I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
-
+I'm a passionate Software Engineer.<br>
+I am currently working on technology projects with Web Development, Mobile Development including frontend and backend<br>
 ### Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
@@ -13,7 +12,6 @@ I am currently studying Systems Analysis and Development<br> at IFCE - Federal I
  
  <!-- <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square"> -->
 - 👋 Olá, eu sou Jonas Freire  </br>
-- 👀 Eu sou estudante de programação.  </br>
 
 <div align="center">
   <a href="https://github.com/jonnahfreire">
